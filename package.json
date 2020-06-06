@@ -1,0 +1,17 @@
+{
+  "name": "06-04-expressgame",
+  "version": "1.0.0",
+  "description": "Game API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Denis Savgir",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  }
+}
